@@ -1,2 +1,2 @@
 # python-classifier
-Statistics class group project, exploratory data analysis and machine learning
+Statistics class group project - exploratory data analysis and machine learning
